@@ -16,7 +16,8 @@ const About = () => {
     <div className="md:px-10 px-7 sm:-mt-24" id="about">
       <h1 className="text-lime-500 font-semibold text-3xl mt-5">About me:</h1>
       <p className="my-3 text-white md:w-2/3 leading-[2]">
-        Hi, my name is Nuel, i am a skilled artist. I have honed my skills in  and in advance i
+        Hi, my name is Nuel, i am a skilled artist. I have honed
+        my skills in the area of art and in advance i
         have core understanding of advance design principles. Here are the
         major skiills i have.
       </p>
